@@ -10,7 +10,7 @@ a.button.back i,.pricing-table span,.workout-time h6,
 .previou a:hover,.mobile-nav > ul li > a:hover
 
 {
-   color: #bde800;
+   color: rgb(235, 203, 62);
 }
 
 
@@ -44,5 +44,5 @@ ul.list li h4:before,
 .photo.owl-theme .owl-dots .owl-dot:hover span,
 .progress-status,.other-workouts-Sections:before,.page-loader,.img-girl:before,
 .loop-slider.owl-theme .owl-nav [class*=owl-]:hover{
-    background-color:#bde800 ;
+    background-color:#87babe ;
 }
